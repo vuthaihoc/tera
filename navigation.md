@@ -1,11 +1,12 @@
-# Navigation
+# BLOG.TERA.VN
 
 [Home](index.md)
 
-[Blog](blog.md)
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
+[Blog]()
+
+  * [PHP](php.md)
+  * [HTML & Javascript](javascript.md)
+  * [Other](other.md)
   
 [About](about.md)
 
