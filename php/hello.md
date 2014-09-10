@@ -5,4 +5,4 @@ Hello php
 
 Content is bulding....
 
-[gimmick:Disqus](hello_php)
+[gimmick:Disqus](blogteravn)
