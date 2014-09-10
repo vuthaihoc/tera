@@ -5,4 +5,4 @@ Hello php
 
 Content is bulding....
 
-[gimmick:Disqus](your_disqus_shortname)
+[gimmick:Disqus](hello_php)
