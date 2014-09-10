@@ -10,6 +10,8 @@
   
 [About](about.md)
 
+[gimmick:theme](simplex)
+
 [gimmick:ThemeChooser](Change theme)
 
 [gimmick:forkmeongithub](http://github.com/vuthaihoc/)
