@@ -2,5 +2,6 @@
     "useSideMenu": true,
     "lineBreaks": "gfm",
     "additionalFooterText": "&copy; by Tera.vn 2014 <br/>",
-    "anchorCharacter": "#"
+    "anchorCharacter": "#",
+    "title" : "blog.tera.vn"
 }
