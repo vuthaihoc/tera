@@ -1,6 +1,6 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "All content and images &copy; by TrcklingRain",
+    "additionalFooterText": "All content and images &copy; by TrcklingRain <br/>",
     "anchorCharacter": "#"
 }
