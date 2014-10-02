@@ -5,6 +5,7 @@
 [Blog]()
 
   * [PHP](php.md)
+  * [Ruby](ruby/list.md)
   * [HTML & Javascript](javascript.md)
   * [Other](other.md)
   
